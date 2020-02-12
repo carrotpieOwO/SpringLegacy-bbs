@@ -1,0 +1,12 @@
+package com.carrot.bbs.controller;
+
+import org.springframework.ui.Model;
+
+public class BoardController {
+
+	public String list(Model model) {
+		return "list";
+	}
+	
+	
+}

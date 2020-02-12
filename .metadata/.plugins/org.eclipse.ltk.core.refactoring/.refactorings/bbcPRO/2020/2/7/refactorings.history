@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.carrot.bbs.dao&apos; to &apos;com.carrot.bbs.mapper&apos;&#x0D;&#x0A;- Original project: &apos;bbcPRO&apos;&#x0D;&#x0A;- Original element: &apos;bbcPRO/src/main/java/com.carrot.bbs.dao&apos;&#x0D;&#x0A;- Renamed element: &apos;bbcPRO/src/main/java/com.carrot.bbs.mapper&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.carrot.bbs.dao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.carrot.bbs.dao" name="com.carrot.bbs.mapper" qualified="false" references="true" stamp="1581485303804" textual="false" version="1.0"/>
+</session>

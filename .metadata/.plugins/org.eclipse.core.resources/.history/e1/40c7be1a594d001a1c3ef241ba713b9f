@@ -1,0 +1,5 @@
+package com.carrot.bbs.mapper;
+
+public interface BoardMapper {
+
+}

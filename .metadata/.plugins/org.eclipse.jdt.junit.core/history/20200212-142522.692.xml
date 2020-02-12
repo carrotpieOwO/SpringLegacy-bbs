@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DBTest" project="bbcPRO" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="com.carrot.bbs.DBTest" time="0.02">
+    <testcase name="testFactory" classname="com.carrot.bbs.DBTest" time="0.012"/>
+    <testcase name="testSession" classname="com.carrot.bbs.DBTest" time="0.008"/>
+  </testsuite>
+</testrun>

@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\chy\springProject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\258542108.index
+\bbcPRO\src\main\java
